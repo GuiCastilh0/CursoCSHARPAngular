@@ -27,7 +27,6 @@ namespace ProEventos.Persistence
                 .WithOne(rs => rs.Palestrante)
                 .OnDelete(DeleteBehavior.Cascade);            
         }
-
     }
 
 }
