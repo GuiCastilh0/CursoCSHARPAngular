@@ -1,4 +1,5 @@
 using AutoMapper;
+using ProEventos.Application.Dtos;
 using ProEventos.Application.DTOs;
 using ProEventos.Domain;
 

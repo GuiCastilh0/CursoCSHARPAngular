@@ -1,3 +1,5 @@
+using ProEventos.Application.Dtos;
+
 namespace ProEventos.Application.DTOs
 {
     public class LoteDto

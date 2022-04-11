@@ -1,4 +1,5 @@
 using System.Threading.Tasks;
+using ProEventos.Application.Dtos;
 using ProEventos.Application.DTOs;
 using ProEventos.Domain;
 
